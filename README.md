@@ -20,12 +20,9 @@ To get started, clone the repository and install the required dependencies:
 git clone https://github.com/RiteeshTM/system-threat-forecaster.git
 cd system-threat-forecaster
 ```
+## License
 
-## Usage
-
-1. **Data Preparation**: Place your datasets in the `data/` directory.
-2. **Training**: Run the Jupyter notebooks in the `notebooks/` directory to train the models.
-3. **Prediction**: Use the trained models in the `models/` directory to make predictions on new data.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
